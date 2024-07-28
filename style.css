@@ -1,0 +1,130 @@
+body{
+    /* display: flex */
+    font-family: sans-serif;
+}
+ 
+ h1{
+    display: flex;
+    background-color: #cc574c;
+    border: 7px #CC5748 solid;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 20 px;
+    
+    /* width: 100%; */
+    
+   }
+  
+h1:hover{
+  font-size: 35px;
+  transition-duration: 1s;
+}
+
+ img.colorscape{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: auto;
+        margin-bottom: auto;
+        width: 50%;
+        border-radius: 20%;
+      }
+ img.heartpuzzle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+        margin-left: 5%;
+        margin-right: 5%;
+        margin-top: 5%;
+        margin-bottom: 30%;
+        width: 15%;
+        border-radius: 20%;
+      }
+
+
+a:link {
+        color: black;
+        background-color: transparent;
+        text-decoration: none;
+
+      }
+
+a:hover{
+  font-size: 20px;
+  transition-duration: 1s;
+  background-color: antiquewhite;
+  border-radius: 200%;
+}
+
+li, ul{
+        margin: 0 0 0 0;
+        list-style-type: none;
+        border: 12px #9ecccc solid;
+        background-color: #9ecccc;
+        /* width: 100%;
+        height: 100%; */
+        /* gap: 7px; */
+        flex-direction: row;
+        display: flex;
+        justify-content: center;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+
+    }
+     */
+     .gallery {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      /* flex-wrap: wrap; */
+      
+    }
+
+table, th,td,.table{
+  border: black solid;
+}
+  
+
+    /* .navbar{
+      margin: 50px 0 au 0;
+      list-style-type: none;
+      border: 12px #9ecccc solid;
+      background-color: #9ecccc;
+      width: 100%;
+      height: 100%;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+  } */
+
+
+
+
+      
+/* h1, .navbar{
+
+} */
+
+/* .backboxes{
+    display: flex;
+    background-color: #000000;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20%;
+        /* margin-left: auto;
+        margin-right: auto;
+        margin-top: auto;
+        margin-bottom: auto; */
+        /* width: 275px;
+        height: 275px;
+        justify-content: center;
+    flex-direction: row;
+ /* 
+/* save for when I fiugre how to stack
