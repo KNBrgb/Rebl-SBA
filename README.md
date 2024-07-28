@@ -19,5 +19,7 @@ Coolors is one of many resources that can help you find a color palette.
 Use Flexbox and/or the Bootstrap Grid.
 Use at least two CSS animations.
 
-https://github.com/KNBrgb/Rebl-SBA
+https://github.com/KNBrgb/
+
+**This is the start of my brand's website.**
 
